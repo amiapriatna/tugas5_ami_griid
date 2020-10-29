@@ -19,7 +19,7 @@ li {
 
 a {
     text-decoration: none;
-    color: black;
+    color: blue;
 }
 
 header {
@@ -159,7 +159,7 @@ section button {
 }
 
 section .contain .shop {
-    background-color: green;
+    background-color: blue;
     color: white;
     cursor: pointer;
 }
